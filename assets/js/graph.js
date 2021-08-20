@@ -30,7 +30,7 @@ var options2 = {
       },
       {
         x: 'ArcGIS',
-        y: 300
+        y: 500
       },
     ]
   },
@@ -48,7 +48,7 @@ var options2 = {
     data: [
       {
         x: 'GDAL/OGR',
-        y: 240
+        y: 250
       },
       {
         x: 'Pandas/Geopandas',
